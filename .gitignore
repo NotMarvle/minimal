@@ -1,0 +1,21 @@
+# Compiled output
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment
+.env
+venv/
+env/
+
+# Tests
+
+test.py
+test.pyw
+.pyw
+test.min
+.min
